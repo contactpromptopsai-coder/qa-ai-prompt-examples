@@ -10,6 +10,10 @@ Typical use cases:
 ---
 
 ## Example: Edge Case Identification Prompt
+Analyze the feature below and list edge cases that are likely to be missed.
+Focus on boundary conditions and invalid states.
+
+Feature: {{INSERT}}
 
 
 
