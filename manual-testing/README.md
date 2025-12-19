@@ -15,5 +15,9 @@ Focus on boundary conditions and invalid states.
 
 Feature: {{INSERT}}
 
+---
+
+These examples are part of a larger, structured QA prompt toolkit.
+See the main README for details.
 
 
