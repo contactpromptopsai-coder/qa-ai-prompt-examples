@@ -21,4 +21,5 @@ Framework: {{INSERT}}
 
 ---
 
-These are simplified examples from a larger QA-focused prompt pack.
+If this prompt is useful, the main README links to a complete QA prompt toolkit.
+
