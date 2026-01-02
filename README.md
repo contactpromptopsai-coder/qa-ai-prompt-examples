@@ -39,11 +39,15 @@ Focus on testability and edge scenarios.
 Requirement: {{INSERT}}
 
 
-## Complete QA prompt toolkit
+## Full QA prompt toolkit
 
-If you are looking for a **structured, production-ready QA prompt pack**
-covering manual testing, automation, API testing, and debugging:
+If you want a **complete, structured QA prompt system**
+instead of isolated examples:
 
 **PromptOps — AI Prompt Pack for QA & Test Automation**
 
-👉 Full PromptOps toolkit (launch price): https://promptops7.gumroad.com/l/yjqocl/USD4LAUNCH
+- 65 prompts
+- manual testing, automation, API testing, debugging
+- designed for real QA workflows
+
+👉 https://promptops7.gumroad.com/l/yjqocl/USD4LAUNCH
