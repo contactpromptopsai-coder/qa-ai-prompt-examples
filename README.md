@@ -1,4 +1,20 @@
 # QA AI Prompts
+
+## Why this repository exists
+
+These examples show **how** AI can be used in QA,
+but they intentionally cover only a small part of real QA workflows.
+
+In real projects, the challenge is not a single prompt,
+but having **the right prompt at the right moment**:
+- during requirement analysis
+- while designing tests
+- when reviewing automation code
+- when debugging failures
+
+That gap is what the full PromptOps toolkit is designed to solve.
+
+
 ## Repository structure
 
 - **manual-testing/**
