@@ -17,7 +17,7 @@ Feature: {{INSERT}}
 
 ---
 
-These examples are part of a larger, structured QA prompt toolkit.
-See the main README for details.
+If this prompt is useful, the main README links to a complete QA prompt toolkit.
+
 
 
