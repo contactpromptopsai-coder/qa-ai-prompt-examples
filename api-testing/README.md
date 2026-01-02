@@ -19,4 +19,5 @@ API endpoint: {{INSERT}}
 
 ---
 
-For a complete set of API testing prompts, see the full toolkit linked in the main README.
+If this prompt is useful, the main README links to a complete QA prompt toolkit.
+
